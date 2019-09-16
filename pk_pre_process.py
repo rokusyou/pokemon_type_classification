@@ -12,7 +12,7 @@ def pk_preprocess():
     #    SETTINGS    #
     ##################
     TRAIN_N = 500
-    TOT_PK_NUM = 800
+    TOT_PK_NUM = 802
 
     skill_num = 1
     skills =[]
