@@ -1,1 +1,4 @@
 # pokemon_type_classification
+
+ポケモンを機械学習でタイプ別に分類してみた。
+分類に使用したデータは覚える技
