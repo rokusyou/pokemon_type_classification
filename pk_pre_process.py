@@ -2,7 +2,7 @@
 def pk_preprocess():
     import numpy as np
     import json
-    f = open(r'.\data\pokemon_skills_utf8.json','r',encoding='utf-8')
+    f = open(r'./data/pokemon_skills_utf8.json','r',encoding='utf-8')
 
     pk_zkan = json.load(f)
     f.close()
